@@ -1,15 +1,15 @@
 # 🌌 Traveling Ellipse — Scroll-Triggered GSAP Animation
 
+### 🎥 Animation Preview (Video)
+![Traveling Ellipse](./traveling_elipse.gif) 
+
+---
+
 An interactive visual demo using **GSAP** and **ScrollTrigger**, featuring a dynamic, animated glowing ellipse that moves, scales, and rotates with scroll. This effect can be a stunning hero section, background animation, or an artistic intro to any web project.
 
 ---
 
 ## 📸 Demo Snapshot
-
-### 🎥 Animation Preview (Video)
-![Traveling Ellipse](./traveling_elipse.gif) 
-
----
 
 ## 🛠️ Features
 
