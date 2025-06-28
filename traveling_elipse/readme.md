@@ -4,16 +4,10 @@ An interactive visual demo using **GSAP** and **ScrollTrigger**, featuring a dyn
 
 ---
 
-## 🚀 Live Preview
-
-> ✨ _Coming soon_ — Add a link if hosted!
-
----
-
 ## 📸 Demo Snapshot
 
 ### 🎥 Animation Preview (Video)
-[![Watch the animation](preview.png)](./traveling_elipse.mp4)  
+[![Watch the animation](preview.png)](./traveling_elipse.gif)  
 > Replace the above link with a real video link (e.g., YouTube, Loom, or self-hosted)
 
 ---
@@ -52,44 +46,6 @@ An interactive visual demo using **GSAP** and **ScrollTrigger**, featuring a dyn
 
 3. **Edit Freely**
    - Customize the animation in `elipse.js` and the visuals in `elipse.css`.
-
----
-
-## ✨ GSAP Highlights
-
-```js
-// Infinite yoyo animation
-gsap.to(".elipse", {
-  duration: 1.5,
-  repeat: -1,
-  yoyo: true,
-  ease: "power1.inOut",
-});
-
-// Scroll-triggered timeline
-const tl = gsap.timeline({
-  scrollTrigger: {
-    trigger: ".elipse",
-    start: "60% center",
-    end: "100% center",
-    pin: true,
-    scrub: true,
-  },
-});
-
-tl.to(".elipse", {
-  x: -850,
-  y: 1200,
-  rotation: 90,
-  rotationX: 180,
-  scale: 2.5,
-  duration: 2,
-}).to(".elipse", {
-  y: 750,
-  scale: 2,
-  duration: 1,
-});
-```
 
 ---
 
