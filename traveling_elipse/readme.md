@@ -13,7 +13,7 @@ An interactive visual demo using **GSAP** and **ScrollTrigger**, featuring a dyn
 ## 📸 Demo Snapshot
 
 ### 🎥 Animation Preview (Video)
-[![Watch the animation](preview.png)](traveling%20elipse.mp4)  
+[![Watch the animation](preview.png)](./traveling_elipse.mp4)  
 > Replace the above link with a real video link (e.g., YouTube, Loom, or self-hosted)
 
 ---
