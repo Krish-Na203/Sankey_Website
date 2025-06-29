@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  background: #111;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  justify-content: center;
+}
+.carousel-wrapper {
+  width: 100%;
+  height: 80%;
+  overflow: hidden;
+  z-index: 0;
+}
+.circuler-patch-1 {
+  width: 110%;
+  top: -100px;
+  right: -5%;
+  height: 300px;
+  position: absolute;
+  background-color: black;
+  z-index: 1;
+  border-bottom-right-radius: 200%;
+  border-bottom-left-radius: 200%;
+}
+.circuler-patch-2 {
+  width: 110%;
+  bottom: -100px;
+  right: -5%;
+  height: 300px;
+  position: absolute;
+  background-color: black;
+  z-index: 1;
+  border-bottom-right-radius: 200%;
+  border-bottom-left-radius: 200%;
+  rotate: 180deg;
+}
+.carousel {
+  display: flex;
+  z-index: 0;
+  gap: 20px;
+}
+.carousel img {
+  width: 300px;
+  height: 600px;
+  z-index: 0;
+  object-fit: cover;
+  flex-shrink: 0;
+}
