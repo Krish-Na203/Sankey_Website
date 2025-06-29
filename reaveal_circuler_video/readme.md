@@ -1,7 +1,7 @@
 # 🌌 circular video animation — Scroll-Triggered GSAP Animation
 
 ### 🎥 Animation Preview (Video)
-![circular video animation](./[4K]_IRON_MAN_EDIT(2160p).webm) 
+![circular video animation](./circuler_video_revearl.mp4) 
 
 ---
 
