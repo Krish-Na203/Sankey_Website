@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  background: #111;
+  color: white;
+  font-family: sans-serif;
+  overflow-x: hidden;
+}
+
+.spacer {
+  height: 100vh;
+}
+
+.scroll-text {
+  font-size: 4rem;
+  text-align: center;
+  line-height: 1.2;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  gap: 0.1em;
+  flex-wrap: wrap;
+}
+.scroll-text span {
+  color: white;
+  display: inline-block;
+}
