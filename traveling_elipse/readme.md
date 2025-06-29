@@ -37,11 +37,11 @@ An interactive visual demo using **GSAP** and **ScrollTrigger**, featuring a dyn
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/traveling-elipse.git
+   git clone https://github.com/Krish-Na203/Sankey_Website.git
    ```
 
 2. **Open in Browser**
-   - Just open `index.html` in any browser — no build tools needed.
+   - Just open `elipse.html` in any browser — no build tools needed.
 
 3. **Edit Freely**
    - Customize the animation in `elipse.js` and the visuals in `elipse.css`.

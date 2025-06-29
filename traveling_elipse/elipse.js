@@ -14,6 +14,7 @@ const tl = gsap.timeline({
     end: "100% center",
     pin: true,
     scrub: true,
+    markers: true,
   },
 });
 

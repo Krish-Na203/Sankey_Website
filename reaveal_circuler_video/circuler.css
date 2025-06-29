@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  width: 100%;
+  height: 300vh;
+}
+.circuler {
+  width: 45vw;
+  height: 45vw;
+  bottom: -50vh;
+  position: relative;
+  margin: auto;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.circuler video {
+  width: 100%;
+  margin: auto;
+  height: 100vh;
+  object-fit: cover;
+}
