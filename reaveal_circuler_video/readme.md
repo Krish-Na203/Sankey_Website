@@ -1,7 +1,7 @@
 # 🌌 circular video animation — Scroll-Triggered GSAP Animation
 
 ### 🎥 Animation Preview (Video)
-![circular video animation](./circuler_video_revearl.mp4) 
+![circular video animation](./circuler_video_revearl.gif) 
 
 ---
 
